@@ -1,7 +1,7 @@
 ### Hi, I'm Ridwan!👋
 
 
-I'm a software engineer based in the Lagos, Nigeria. I love building web applications that solve real-world problems.
+I'm a Senior Software Engineer based in the Lagos, Nigeria. I love building web applications that solve real-world problems.
 
 
 ### Connect with me
