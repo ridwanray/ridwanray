@@ -1,7 +1,7 @@
 ### Hi, I'm Ridwan!👋
 
 
-I'm a Senior Software Engineer based in the Lagos, Nigeria. I love building web applications that solve real-world problems.
+I'm a Senior Software Engineer based in Lagos, Nigeria. I love building web applications that solve real-world problems.
 
 * 📝 I share my insights on software development through articles on [Medium](https://medium.com/@ridwanray).
 * 🎥 Check out my YouTube channel for tutorials, coding challenges, and other resources for aspiring developers: 
