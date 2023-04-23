@@ -5,7 +5,7 @@ I'm a Senior Software Engineer based in the Lagos, Nigeria. I love building web 
 
 * 📝 I share my insights on software development through articles on [Medium](https://medium.com/@ridwanray).
 * 🎥 Check out my YouTube channel for tutorials, coding challenges, and other resources for aspiring developers: 
-
+* 💬 Reach me at alabarise@gmail.com
 
 
 ### Connect with me
